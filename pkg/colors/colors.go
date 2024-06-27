@@ -1,7 +1,7 @@
 package colors
 
 import "strconv"
-пше
+
 type Hex string
 type RGB struct {
 	Red   uint8
